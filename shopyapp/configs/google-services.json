@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "295368984531",
+    "project_id": "goldencollections-637ec",
+    "storage_bucket": "goldencollections-637ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295368984531:android:e84183cdb45d69ff61d126",
+        "android_client_info": {
+          "package_name": "com.goldencollections.net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295368984531-r7jmvk4n040oqrp9ji19h0mr7uk8hlqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goldencollections.net",
+            "certificate_hash": "d087f0616fb1139bc19edc18f549f3dd3a1c1eb1"
+          }
+        },
+        {
+          "client_id": "295368984531-ta80g452c9b8fvqeim22vooa843rnpmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJVCComfGisIBBRMRe_tw6m-UoS7YVWkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295368984531-ta80g452c9b8fvqeim22vooa843rnpmb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "295368984531-atj88m1np5rbeug9aef3egp492nuvuhq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldencollections.net",
+                "app_store_id": "6443965225"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
